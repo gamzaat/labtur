@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+} 
+.text{
+  text-align: center;
+    color: grey;
+    margin-left: 500px;
+    width: 600px;
+    height: 100px;
+  
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 0px;
+}
+.card__copy{
+ 
+    color: grey;
+    margin-left: 0px;
+    width: 300px;
+    height: 100px;
+}
+.card{
+    display:inline-block;
+    margin: 15px;
+
+}
+.container{
+    margin-left: 300px;
+    
+}
+.card__footer>p{
+    color: orange;
+}
